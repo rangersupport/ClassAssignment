@@ -1,4 +1,9 @@
-# Student class defined with a validation constructor and a str method.
+"""
+Creator: Daniel Torregroza
+Purpose: define the test class to test the Student class and define the specified methods in the test class
+Creation date: 12/03/2023
+
+"""
 
 class Student:
     """Student class"""

@@ -1,3 +1,11 @@
+"""
+Creator: Daniel Torregroza
+Purpose: define the test class to test the Student class and define the specified methods in the test class
+Creation date: 12/03/2023
+
+"""
+
+
 # import the unittest module
 
 import unittest
